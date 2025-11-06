@@ -2,6 +2,9 @@
 
 This backend powers the Trade Master online filmmaking academy—a comprehensive platform for aspiring filmmakers to learn how to create powerful and profitable documentary films. Built with Express and TypeScript, it provides robust APIs for user authentication, shopping cart, and secure payments, supporting a modern Next.js + Sanity CMS frontend.
 
+🎬 **Demo link**
+https://trade-master-frontend-2chs.onrender.com/
+
 🎬 **About**
 
 Trade Master is the most comprehensive online filmmaking academy, designed to help aspiring filmmakers create impactful and profitable documentary films. The backend delivers all core data and business logic for an immersive learning experience, including interactive course content, user management, and expert-led course delivery.
