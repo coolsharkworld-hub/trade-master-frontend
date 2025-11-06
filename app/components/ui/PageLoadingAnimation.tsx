@@ -30,7 +30,7 @@ export function PageLoadingAnimation({ data }: PageLoadingAnimationProps) {
       'https://theartofdocumentary.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F0v9eq93x%2Fproduction%2F72f56a74796f726fee4ab828a7af4067ebb86af-1320x1840.jpg&w=480&q=80',
       'https://theartofdocumentary.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F0v9eq93x%2Fproduction%2F9b2c4a382cfc458f05b6b5bd48f99c255f7ae893-1320x1840.jpg&w=480&q=80'
     ],
-    animationDuration: 3500,
+    animationDuration: 3000,
     percentageIncrement: 35,
     minIncrement: 2,
     maxIncrement: 6
